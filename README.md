@@ -1,4 +1,6 @@
 # Front-End Helper
+
+[![Join the chat at https://gitter.im/nikolenkoanton92/front-end-helper](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/nikolenkoanton92/front-end-helper?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Front-End Helper - helps you learn HTML, CSS, and JS or helps you find some new ideas.
 
 ## Project Mission
